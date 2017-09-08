@@ -1,5 +1,5 @@
 hi!
-local change!
+local change! abc
 remote change!
 remote change!
 local change
